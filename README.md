@@ -11,7 +11,7 @@ Space to change color theme
 Esc to quit
 
 Dependencies:
-numpy
-random
-pygame
+numpy,
+random,
+pygame,
 itertools
