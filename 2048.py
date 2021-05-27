@@ -259,7 +259,7 @@ def play_sound():
     sound = pygame.mixer.Sound("swipe.mp3")
     sound2 = pygame.mixer.Sound("woosh1.mp3")
     sound3 = pygame.mixer.Sound("woosh2.mp3")
-    sound4 = pygame.mixer.Sound("fart.mp3")
+    sound4 = pygame.mixer.Sound("far.mp3")
     sound5 = pygame.mixer.Sound("chimp.mp3")
     sound6 = pygame.mixer.Sound("cartoon.mp3")
     sound7 = pygame.mixer.Sound("moo.mp3")
